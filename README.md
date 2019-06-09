@@ -1,0 +1,1 @@
+AJAX & API exercise: https://grzegorz-turek.github.io/apiajax-qmachine/
